@@ -94,7 +94,7 @@ $(document).ready(function() {
 	
 	    $('#page-welcome').vegas({
         slides: [
-            { src: 'img/slider/04.jpg' },
+            { src: 'img/logo/logo.png' },
             { src: 'img/slider/02.jpg' },
             { src: 'img/slider/05.jpg' },
 			{ src: 'img/slider/06.jpg' },

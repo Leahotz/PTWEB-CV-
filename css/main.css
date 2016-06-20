@@ -105,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 225px;
     margin: 0 20px 20px 0;
 }
+
 #page-skills {
     padding: 75px 0;
     background: #f7f7f7;
@@ -301,13 +302,13 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     letter-spacing: 5px;
     text-align: center;
-    color: #555555;
+    color: #127c89;
     text-transform: uppercase;
     padding: 20px 0;
 }
 .spacer {
     width: 100px;
-    height: 2px;
+    height: 1px;
     margin: auto;
 }
 .section-subtitle {
@@ -353,17 +354,17 @@ input, .input-lg, button {
     border-radius: 0;
 }
 .control-group.error input, .control-group.error select, .control-group.error textarea {
-    border-color: #b94a48;
+    border-color: #127c89;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 }
 .control-group.error .checkbox, .control-group.error .radio, .control-group.error input, .control-group.error select, .control-group.error textarea {
-    color: #b94a48;
+    color: #127c89;
 }
 label.error {
     color: #fff;
-    background: #b94a48;
+    background: #127c89;
     border: solid thin #fff;
     padding: 3px 5px;
 }
@@ -380,7 +381,7 @@ label.valid {
 }
 
 .help-block ul li{
- background: #b94a48;
+ background: #127c89;
   color: #fff;
   padding: 4px 18px;
 }
@@ -537,6 +538,23 @@ button{
     height: 50px;
     margin-top: 90px;
     margin-left: 450px;
-    background-color: #5a3232;
+    background-color: #015786;
     color: white;
+}
+
+.profile {
+    background-image: url(../img/Photolea.jpg);
+    height: 350px;
+    width: 350px;
+}
+
+.profile:hover {
+    background-image: url(../img/photohover.jpg);
+    height: 350px;
+    width: 350px;
+}
+
+.formationphoto{
+    height: 350px;
+    width: 900px;
 }

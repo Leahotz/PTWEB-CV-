@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #page-skills {
     padding: 75px 0;
-    background: #f7f7f7;
+    background-image: url(../img/background/background-competnece.jpg);
     text-align: center;
 }
 #page-education {
@@ -117,11 +117,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-experience {
     padding: 75px 0;
-    background: #f7f7f7;
+    background-image: url("../img/background/background-presentation.jpg");
 }
 #page-portfolio {
     padding: 75px 0;
-    background: #fff;
+    background-image: url("../img/background/background-skill.jpg");
 }
 #page-contact {
     padding: 75px 0;
@@ -538,7 +538,7 @@ button{
     height: 50px;
     margin-top: 90px;
     margin-left: 450px;
-    background-color: #015786;
+    background-color: #114e53;
     color: white;
 }
 

@@ -80,8 +80,8 @@ h1, h2, h3, h4, h5, h6 {
 #page-welcome header h1 {
     margin: 0;
     padding: 0;
-    font-size: 4.5em;
-    font-weight: 700;
+    font-size: 5.5em;
+    font-weight: 800;
     letter-spacing: 0.1em;
     line-height: 1em;
     text-transform: uppercase;
@@ -556,5 +556,6 @@ button{
 
 .formationphoto{
     height: 350px;
-    width: 900px;
+    width: 1150px;
+    background-image: url(../img/formation.png);
 }

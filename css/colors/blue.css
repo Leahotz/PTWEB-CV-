@@ -14,8 +14,9 @@ background: #127c89;
 }
 
 #page-contact{
-	background: #127c89;
+	background-image: url(../../img/background/contact.jpg);
 	color:#fff;
+    background-repeat: no-repeat;
 }
 
 #page-contact .spacer{

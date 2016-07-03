@@ -10,7 +10,6 @@ html, body {
     width: 100%;
     font-family: 'glyphicons-halflings-regular';
     color: #757575;
-    font-weight: 500;
 }
 img {
     max-width: 100%;
@@ -535,13 +534,16 @@ label.valid {
     #page-profile .profile {
         margin: 0 auto 20px auto;
     }
+    #page-experience button {
+        margin: 30px 20px 20px 40px;
+    }
 }
 
 button{
-    width: 30%;
+    width: 250px;
     height: 50px;
     margin-top: 90px;
-    margin-left: 450px;
+    margin-left: 520px;
     background-color: #114e53;
     color: white;
 }
@@ -556,16 +558,6 @@ button{
     background-image: url(../img/photohover.jpg);
     height: 350px;
     width: 350px;
-}
-
-.formationphoto{
-    height: 250px;
-    width: 100%;
-    margin-left: 40px;
-    margin-top: 30px;
-    background-image: url(../img/formation.png);
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 
 marquee {
